@@ -1,0 +1,15 @@
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\bin\Debug\net5.0\Talabate.Service.deps.json
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\bin\Debug\net5.0\Talabate.Service.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\bin\Debug\net5.0\Talabate.Service.pdb
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.csproj.AssemblyReference.cache
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.AssemblyInfoInputs.cache
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.AssemblyInfo.cs
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.csproj.CoreCompileInputs.cache
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\refint\Talabate.Service.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.pdb
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\ref\Talabate.Service.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\bin\Debug\net5.0\Talabat.Core.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\bin\Debug\net5.0\Talabat.Core.pdb
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\Talabate.Sevice\obj\Debug\net5.0\Talabate.Service.csproj.CopyComplete
