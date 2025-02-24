@@ -1,0 +1,12 @@
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\bin\Debug\net5.0\Talabat.Core.deps.json
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\bin\Debug\net5.0\Talabat.Core.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\bin\Debug\net5.0\Talabat.Core.pdb
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\Talabat.Core.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\refint\Talabat.Core.dll
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\Talabat.Core.pdb
+D:\study\cources\route\course\08 ASP.NET Web APIs\08 ASP.NET Web APIs\Talbat.Solution\TalbatCore\obj\Debug\net5.0\ref\Talabat.Core.dll
